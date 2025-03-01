@@ -1,0 +1,2 @@
+- name: kicad render pcb
+  uses: linalinn/kicad-render@v0.2
